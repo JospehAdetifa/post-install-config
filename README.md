@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 STEP 1: Configure Roles
 
-Login To Your Osticket VM and go to this website: http://localhost/osTicket/scp/login.php  
+Login To Your osTicket VM and go to this website: http://localhost/osTicket/scp/login.php  
 Then Login using the previous creditionals you made during the installation phase. 
 Go to the Admin Panel 
 
@@ -70,13 +70,14 @@ Next we will click over to the Permissions tab.
 <img width="975" alt="Screenshot 2024-04-01 at 14 30 15" src="https://github.com/JospehAdetifa/post-install-config/assets/165278529/771ad649-5fc3-4c04-b500-4dcdab2fa426">
 
 
-Since this is an admin role we will be clicking all of the boxes to grant these types of users full control over the osticket server. Once this is done click add role. 
+Since this is an admin role we will be clicking all of the boxes to grant these types of users full control over the osTicket server. Once this is done click add role. 
 
 
 <img width="975" alt="Screenshot 2024-04-01 at 14 31 43" src="https://github.com/JospehAdetifa/post-install-config/assets/165278529/f1f6b1b8-41e6-4d0b-a2d8-3d7f5f355a78">
 
 
 STEP 2: Configure Departments
+
 
 Click on the departments tab
 
@@ -150,7 +151,7 @@ Ensure that in the registration method section that anyone can register. Then sa
 
 STEP 5: Configure Agents. 
 
-We are going to create some agents in our osticket server. Think of the agents as pretend helpdesk professionals. 
+We are going to create some agents in our osTicket server. Think of the agents as pretend helpdesk professionals. 
 
 Click on the agents tab.
 
@@ -164,7 +165,7 @@ Then click on add new agents.
 <img width="259" alt="Screenshot 2024-04-01 at 15 04 24" src="https://github.com/JospehAdetifa/post-install-config/assets/165278529/70c3adf3-16f4-4dab-9e23-d9a6cd7be8ea">
 
 
-We are going to create two new agents. A male called Jane Doe and a female John Doe. 
+We are going to create two new agents. A female called Jane Doe and a male John Doe. 
 The key thing to note is ensure you remember the password by keeping it simple. Remember this is just a lab. 
 
 
@@ -318,27 +319,3 @@ To do this click add new topic. Fill out the name then save changes.
 With all of the done the post-installion of osTicket is finished.
 
 
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
